@@ -9,7 +9,7 @@ setup(
     author_email='santokalayil@gmail.com',
     license='MIT',
     packages=find_packages(include=('search_n_download_yt_videos','search_n_download_yt_videos.*')),
-    install_requires=['setuptools', 'jinja2>=3.1.0'],
+    install_requires=['setuptools', 'jinja2>=3.1.0', 'pytube==12.1.0'],
 
     classifiers=[
         'License :: OSI Approved :: MIT License',  

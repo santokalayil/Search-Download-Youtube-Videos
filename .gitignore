@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# project specific
+notebook.ipynb
+search_n_download_yt_videos/notebook.ipynb
